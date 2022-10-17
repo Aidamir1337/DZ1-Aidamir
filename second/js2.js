@@ -14,3 +14,4 @@ const plus = function (leftBlock) {
 	leftBlock();
 }
 block.addEventListener('click', plus);
+let a = 'asd'
